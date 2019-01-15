@@ -2,31 +2,6 @@
 ------
 
 ### Art Piece 1
-![Casey Reas](images/reas.jpg?raw=true "Casey Reas")
-This is the first art piece that I like. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-[Here's a link to the piece](http://reas.com/knbc/)
-
-
-### Art Piece 2
-
-![Jonathan Monaghan](images/monaghan.png?raw=true "Jonathan Monaghan")
-This is **another art piece** that I like. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-[Here's a link to the piece](https://vimeo.com/121033081)
-
-### Art Piece 3
-
-![Rafael Lozano-Hemmer](images/hemmer.png?raw=true "Rafael Lozano-Hemmer")
-This is **an optional third art piece** that I like. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic tenetur. Ad ducimus laborum, aut vel sunt placeat, illum perspiciatis ratione et quasi repellat, pariatur cupiditate reprehenderit dolores.
-
-[Here's a link to the piece](http://www.bitforms.com/lozano-hemmer/bilateral-time-slicer)
-
+![Jeremy Blake](images/The_Witches_Cap.png?raw=true "Jeremy Blake")
+The pieces of art below were created by Jeremy Blake, a new media artist that passed away in 2007. The first image, The Witch’s Cap, is a digital c-print. This image stood out to me because it looks like it might either be a photoraph or even a painting, but it is neither. I thought that the way in which the yellow and pink lines framed the picture make it seem as though the image features a street or an alley way. Lining this alley are the images of the masked woman, the house, the landscape, the rose, etc. as screens on a wall. To me, it is easy to imagine someone walking down that path, being engulfed by the futuristic, flashing, and distracting images that are relentlessly forced into their vision.
 
